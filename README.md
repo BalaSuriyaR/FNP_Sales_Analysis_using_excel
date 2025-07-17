@@ -25,6 +25,6 @@ The dashboard provides actionable insights across key business metrics, customer
 ├── FNP_Sales_Dashboard.xlsx     # Main Excel dashboard file
 ├── README.md                    # Project overview
 ├── summary_FNP_Sales_Analysis   # executive summary of dashboard
-└── assets/                      # screenshots 
+└── dashboard                      # screenshots 
 ```
 
