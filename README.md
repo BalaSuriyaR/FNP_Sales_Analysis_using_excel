@@ -1,4 +1,4 @@
-# FNP Sales Performance Dashboard
+### FNP Sales Performance Dashboard
 
 This repository showcases an Excel-powered dashboard designed to analyze and visualize sales performance for FNP (Ferns N Petals) that specializes in sending gifts for various occasions & Anniversaries.
 The dashboard provides actionable insights across key business metrics, customer engagement trends, and regional demand patterns—ideal for business analysts, decision-makers, and operational teams.
